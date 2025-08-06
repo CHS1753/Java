@@ -1,3 +1,5 @@
+package day1;
+
 public class Example04 {
     public static void main(String[] args) {
 //        type: 값을 저장하는 그릇

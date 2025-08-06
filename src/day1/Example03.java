@@ -1,4 +1,4 @@
-// type : 정수 실수 문자 참거짓
+package day1;// type : 정수 실수 문자 참거짓
 //              1byte       2byte       4byte       8byte
 //정수            byte        short       int         long
 //실수                                    float       double

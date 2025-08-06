@@ -1,3 +1,5 @@
+package day1;
+
 //중괄호는 html의 열린태그 닫는태그와 비슷
 //실행을 담당하는 함수 -> main()
 //public -> 접근 유/무(private -> 함수)

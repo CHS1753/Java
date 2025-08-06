@@ -1,3 +1,5 @@
+package day1;
+
 public class Example08 {
 //    실수타입은 크기가 커질수록 정밀도 증가 float는 사용 불가
 //    단 과한 연산에는 부족 -> 자바는 과학 연산 용이 아니다.

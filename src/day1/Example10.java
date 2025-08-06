@@ -1,4 +1,4 @@
-// 같은 타입을 연산하면 결과도 그 타입
+package day1;// 같은 타입을 연산하면 결과도 그 타입
 
 
 public class Example10 {
